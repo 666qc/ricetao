@@ -1,0 +1,1 @@
+export let kong  ="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F018ee95e799ad0a80120a895078cee.gif&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1655516849&t=0d63fcf0c5315892ccab2b1e60104155"

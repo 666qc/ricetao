@@ -27,7 +27,6 @@
         watch:{
             '$route':{
                 handler:function(newRoute,oldRoute){
-                    console.log(newRoute);
 
                     let { isMainPage,title } = newRoute.meta 
                     this.title = title;

@@ -42,5 +42,8 @@
 </script>
 
 <style lang="scss" scoped>
-
+    .van-tabbar{
+        // margin-top: 50px;
+        margin-top: 20px;
+    }
 </style>

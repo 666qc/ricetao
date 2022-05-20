@@ -5,6 +5,8 @@
 注意：
 - 由于vue官网脚手架[vue-cli](https://cli.vuejs.org/zh/index.html)内置的构建工具webpack打包太慢，所以改为vite工具。
 - [vite](https://vitejs.cn/)官网脚手架初始化的项目是基于vue3，我们需要改为vue2。
+
+
 本仓库地址:https://gitee.com/chenqaun/rice
 ## 使用
 
