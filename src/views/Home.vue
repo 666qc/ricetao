@@ -4,7 +4,7 @@
     <van-sticky>
       <div class="navbar">
         <div class="logo">
-          <img src="../assets/logo/log.png" alt="" />
+          <img src="../assets/logo/to.webp" alt="" />
         </div>
         <van-search
           v-model="value"
@@ -97,7 +97,7 @@ export default {
   },
   methods: {
     handle(data, event) {
-      console.log(data.id);
+      console.log(data.id,"详情id");
       this.$router.push("/details/" + data.id);
     },
     // 轮播图
@@ -127,7 +127,7 @@ export default {
     .van-search {
       padding: 0px 0px;
       flex: 1;
-      background: #000;
+      background: #fff;
     }
   }
 
